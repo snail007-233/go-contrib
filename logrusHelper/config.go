@@ -2,7 +2,7 @@ package logrusHelper
 
 import (
 	mate "github.com/gogap/logrus_mate"
-	"github.com/Sirupsen/logrus"
+	"github.com/sirupsen/logrus"
 	"github.com/spf13/viper"
 	"io"
 	"log"
